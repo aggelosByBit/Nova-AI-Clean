@@ -1,7 +1,7 @@
-flask
-joblib
-numpy
-pandas
-scikit-learn==1.2.2
-bybit==0.2.13
-requests
+flask==2.3.3
+scikit-learn==1.1.3
+pyTelegramBotAPI==4.15.4
+joblib==1.3.2
+pandas==2.2.2
+numpy==1.26.4
+pybybit==1.2.15
