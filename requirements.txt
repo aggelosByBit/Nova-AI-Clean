@@ -1,0 +1,7 @@
+flask
+joblib
+numpy
+pandas
+scikit-learn==1.2.2
+bybit==0.2.13
+requests
